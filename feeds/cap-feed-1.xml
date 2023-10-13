@@ -1,0 +1,52 @@
+<capIndex xmlns="http://www.incident.com/cap_index/1.0">
+	<title>Current CAP Messages</title>
+	<updated>2023-10-12T23:06:05.8945124-07:00</updated>
+	<item xmlns="http://www.incident.com/cap_index/1.0">
+		<id>289511D4-8E54-4326-AA1A-2D273244E117</id>
+		<identifier>289511D4-8E54-4326-AA1A-2D273244E117</identifier>
+		<sender>AtHoc Admin</sender>
+		<status>System</status>
+		<msgType>Alert</msgType>
+		<firstEffective>2023-10-12T22:15:04.807</firstEffective>
+		<lastExpires>2023-10-12T23:15:04.807</lastExpires>
+		<url>https://integration7.athoc.com/Syndication/CAP_AMP_2050346/CapIim/1209414</url>
+		<bounds/>
+		<format>http://www.incident.com/cap/1.1</format>
+	</item>
+	<item xmlns="http://www.incident.com/cap_index/1.0">
+		<id>08CCC9E0-DBB4-4657-90FF-402BACD21C90</id>
+		<identifier>08CCC9E0-DBB4-4657-90FF-402BACD21C90</identifier>
+		<sender>AtHoc Admin</sender>
+		<status>System</status>
+		<msgType>Alert</msgType>
+		<firstEffective>2023-10-12T22:30:06.007</firstEffective>
+		<lastExpires>2023-10-12T23:30:06.007</lastExpires>
+		<url>https://integration7.athoc.com/Syndication/CAP_AMP_2050346/CapIim/1209415</url>
+		<bounds/>
+		<format>http://www.incident.com/cap/1.1</format>
+	</item>
+	<item xmlns="http://www.incident.com/cap_index/1.0">
+		<id>E2F10178-AE01-47D6-BB1D-136BB0A32D52</id>
+		<identifier>E2F10178-AE01-47D6-BB1D-136BB0A32D52</identifier>
+		<sender>AtHoc Admin</sender>
+		<status>System</status>
+		<msgType>Alert</msgType>
+		<firstEffective>2023-10-12T22:45:06.29</firstEffective>
+		<lastExpires>2023-10-12T23:45:06.29</lastExpires>
+		<url>https://integration7.athoc.com/Syndication/CAP_AMP_2050346/CapIim/1209416</url>
+		<bounds/>
+		<format>http://www.incident.com/cap/1.1</format>
+	</item>
+	<item xmlns="http://www.incident.com/cap_index/1.0">
+		<id>5B11DC03-29EB-487D-AB9A-C7A2EA94BC17</id>
+		<identifier>5B11DC03-29EB-487D-AB9A-C7A2EA94BC17</identifier>
+		<sender>AtHoc Admin</sender>
+		<status>System</status>
+		<msgType>Alert</msgType>
+		<firstEffective>2023-10-12T23:00:07.72</firstEffective>
+		<lastExpires>2023-10-13T00:00:07.72</lastExpires>
+		<url>https://integration7.athoc.com/Syndication/CAP_AMP_2050346/CapIim/1209417</url>
+		<bounds/>
+		<format>http://www.incident.com/cap/1.1</format>
+	</item>
+</capIndex>
