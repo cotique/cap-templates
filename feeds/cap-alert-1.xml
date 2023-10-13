@@ -1,0 +1,33 @@
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.1">
+	<identifier>CAP_AMP|853708|1E855510-521A-4421-BEEB-C4DA8E832C42|1209418|PUBLISH</identifier>
+	<sender>BlackBerry AtHoc Alerts</sender>
+	<sent>2023-10-12T23:15:08-07:00</sent>
+	<status>Actual</status>
+	<msgType>Alert</msgType>
+	<source>System Default</source>
+	<scope>Public</scope>
+	<addresses>AppSpace,0,0</addresses>
+	<code>0,1</code>
+	<info>
+		<category>Other</category>
+		<event/>
+		<urgency>Unknown</urgency>
+		<severity>Unknown</severity>
+		<certainty>Unknown</certainty>
+		<eventCode>
+			<valueName>SAME</valueName>
+			<value>ADR</value>
+		</eventCode>
+		<effective>2023-10-12T23:15:08-07:00</effective>
+		<expires>2023-10-13T00:15:08-07:00</expires>
+		<senderName>VA AppSpace Digital Display SIM</senderName>
+		<headline>Digital Display CAP XML Test #94 - All MVAMC + VetCenter Displays</headline>
+		<description>Digital Display CAP XML Test #94 - All MVAMC + VetCenter Displays. This is a test of the AppSpace Digital Display system. This alert should turn on all signs in the MVAMC and associated VetCenters. This is only a test. Take no action at this time.</description>
+		<instruction/>
+		<contact>support@athoc.com</contact>
+		<parameter>
+			<valueName>EventDescription</valueName>
+			<value>Administrative Message/Follow up Statement</value>
+		</parameter>
+	</info>
+</alert>
