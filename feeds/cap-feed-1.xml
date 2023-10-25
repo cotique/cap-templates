@@ -4,11 +4,11 @@
 	<item xmlns="http://www.incident.com/cap_index/1.0">
 		<id>1E855510-521A-4421-BEEB-C4DA8E832C42</id>
 		<identifier>1E855510-521A-4421-BEEB-C4DA8E832C42</identifier>
-		<sender>AtHoc Admin</sender>
+		<sender>Test</sender>
 		<status>System</status>
 		<msgType>Alert</msgType>
 		<firstEffective>2023-10-12T23:15:08.133</firstEffective>
-		<lastExpires>2023-10-13T00:15:08.133</lastExpires>
+		<lastExpires>2024-10-31T00:15:08.133</lastExpires>
 		<url>https://raw.githubusercontent.com/cotique/cap-templates/main/feeds/cap-alert-1.xml</url>
 		<bounds/>
 		<format>http://www.incident.com/cap/1.1</format>
