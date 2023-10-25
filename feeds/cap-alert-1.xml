@@ -19,10 +19,10 @@
 			<value>ADR</value>
 		</eventCode>
 		<effective>2023-10-12T23:15:08-07:00</effective>
-		<expires>2023-10-13T00:15:08-07:00</expires>
+		<expires>2023-10-31T00:15:08-07:00</expires>
 		<senderName>VA AppSpace Digital Display SIM</senderName>
-		<headline>Digital Display CAP XML Test #94 - All MVAMC + VetCenter Displays</headline>
-		<description>Digital Display CAP XML Test #94 - All MVAMC + VetCenter Displays. This is a test of the AppSpace Digital Display system. This alert should turn on all signs in the MVAMC and associated VetCenters. This is only a test. Take no action at this time.</description>
+		<headline>Test CAP Raz</headline>
+		<description>Test only.</description>
 		<instruction/>
 		<contact>support@athoc.com</contact>
 		<parameter>
