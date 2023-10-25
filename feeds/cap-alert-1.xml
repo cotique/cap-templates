@@ -1,6 +1,6 @@
 <alert xmlns="urn:oasis:names:tc:emergency:cap:1.1">
 	<identifier>CAP_AMP|853708|1E855510-521A-4421-BEEB-C4DA8E832C42|1209418|PUBLISH</identifier>
-	<sender>BlackBerry AtHoc Alerts</sender>
+	<sender>Test</sender>
 	<sent>2023-10-12T23:15:08-07:00</sent>
 	<status>Actual</status>
 	<msgType>Alert</msgType>
@@ -19,7 +19,7 @@
 			<value>ADR</value>
 		</eventCode>
 		<effective>2023-10-12T23:15:08-07:00</effective>
-		<expires>2023-10-31T00:15:08-07:00</expires>
+		<expires>2024-10-31T00:15:08-07:00</expires>
 		<senderName>VA AppSpace Digital Display SIM</senderName>
 		<headline>Test CAP Raz</headline>
 		<description>Test only.</description>
